@@ -1,6 +1,6 @@
 ![hkrpg-go](https://socialify.git.ci/gucooing/hkrpg-go-public/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Auto)
  
-# **欢迎加入我们的 [Discord](https://discord.gg/222yVp6pUq)**
+# **欢迎加入我们的 [Discord](https://discord.gg/222yVp6pUq)** OLD
 
 ## 朋友要复出了，可以关注一下 [hk4e-dmca](https://github.com/flswld/hk4e-go)
 
